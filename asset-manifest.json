@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yumEats/static/css/main.42390cad.css",
+    "main.js": "/yumEats/static/js/main.812c3178.js",
+    "index.html": "/yumEats/index.html",
+    "main.42390cad.css.map": "/yumEats/static/css/main.42390cad.css.map",
+    "main.812c3178.js.map": "/yumEats/static/js/main.812c3178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42390cad.css",
+    "static/js/main.812c3178.js"
+  ]
+}
